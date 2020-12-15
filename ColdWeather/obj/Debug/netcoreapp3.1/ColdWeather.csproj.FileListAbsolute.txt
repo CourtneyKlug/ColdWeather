@@ -1,0 +1,13 @@
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\bin\Debug\netcoreapp3.1\ColdWeather.exe
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\bin\Debug\netcoreapp3.1\ColdWeather.deps.json
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\bin\Debug\netcoreapp3.1\ColdWeather.runtimeconfig.json
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\bin\Debug\netcoreapp3.1\ColdWeather.runtimeconfig.dev.json
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\bin\Debug\netcoreapp3.1\ColdWeather.dll
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\bin\Debug\netcoreapp3.1\ColdWeather.pdb
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\obj\Debug\netcoreapp3.1\ColdWeather.csprojAssemblyReference.cache
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\obj\Debug\netcoreapp3.1\ColdWeather.AssemblyInfoInputs.cache
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\obj\Debug\netcoreapp3.1\ColdWeather.AssemblyInfo.cs
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\obj\Debug\netcoreapp3.1\ColdWeather.csproj.CoreCompileInputs.cache
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\obj\Debug\netcoreapp3.1\ColdWeather.dll
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\obj\Debug\netcoreapp3.1\ColdWeather.pdb
+C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\obj\Debug\netcoreapp3.1\ColdWeather.genruntimeconfig.cache

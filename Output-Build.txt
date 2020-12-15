@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: ColdWeather, Configuration: Debug Any CPU ------
+1>ColdWeather -> C:\Users\22MertzC\source\repos\ColdWeather\ColdWeather\bin\Debug\netcoreapp3.1\ColdWeather.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
